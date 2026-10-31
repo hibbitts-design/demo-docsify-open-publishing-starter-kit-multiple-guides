@@ -1,1 +1,1 @@
-* [Standalone Page](standalone-page.md)
+- [Guides](home.md)

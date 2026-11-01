@@ -69,7 +69,7 @@ This guide covers the foundational ideas, practical tools, and real-world exampl
 > [!NOTE]
 > This guide's home page shows a card for each section with the `card-list-sections` card list, and the guide's `_sidebar.md` sets its reading order and its Previous/Next buttons. The same guide is also the example in [Grav Open Publishing Space](https://github.com/hibbitts-design/grav-skeleton-open-publishing-space) and [Grav Helios Open Reader](https://github.com/hibbitts-design/grav-skeleton-helios-open-reader), showing how content can move between platforms.
 
-Want to learn more? Read the Starter Kit's [Read Me](https://github.com/hibbitts-design/demo-docsify-open-publishing-starter-kit-guides/blob/main/README.md) for setup instructions, features, and more.
+Want to learn more? Read the Starter Kit's [Read Me](https://github.com/hibbitts-design/demo-docsify-open-publishing-starter-kit-multiple-guides/blob/main/README.md) for setup instructions, features, and more.
 
 > [!TIP]
 > **Reuse this guide**

@@ -75,7 +75,7 @@ This guide covers the foundational ideas, practical tools, and real-world exampl
 
 Want to learn more? Read the Starter Kit's [Read Me](https://github.com/hibbitts-design/demo-docsify-open-publishing-starter-kit-guides/blob/main/README.md) for setup instructions, features, and more.
 
-> [!NOTE]
+> [!TIP]
 > **Reuse this guide**
 > It's licensed [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) – copy it, adapt it and share it, with credit.
 

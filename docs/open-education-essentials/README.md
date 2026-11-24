@@ -30,11 +30,11 @@ Here's an example guide to explore and build on: **Open Education Essentials** �
 
 <div class="card">
 
-[![What is Open Education?](what-is-open-education/kevin-grieve-B8ciJlFvaBQ-unsplash.jpg ":no-zoom")](open-education-essentials/what-is-open-education/README.md)
+![](what-is-open-education/kevin-grieve-B8ciJlFvaBQ-unsplash.jpg ":no-zoom")
 
 Section 1
 
-<h2><a href="#/open-education-essentials/what-is-open-education/README">What is Open Education?</a></h2>
+## [What is Open Education?](open-education-essentials/what-is-open-education/README.md) <!-- {docsify-ignore} -->
 
 An introduction to open education principles, the 5Rs framework, and why content ownership matters.
 
@@ -42,11 +42,11 @@ An introduction to open education principles, the 5Rs framework, and why content
 
 <div class="card">
 
-[![Tools for Open Course Design](tools-for-open-course-design/vitaly-gariev-tnikNZcsQjk-unsplash.jpg ":no-zoom")](open-education-essentials/tools-for-open-course-design/README.md)
+![](tools-for-open-course-design/vitaly-gariev-tnikNZcsQjk-unsplash.jpg ":no-zoom")
 
 Section 2
 
-<h2><a href="#/open-education-essentials/tools-for-open-course-design/README">Tools for Open Course Design</a></h2>
+## [Tools for Open Course Design](open-education-essentials/tools-for-open-course-design/README.md) <!-- {docsify-ignore} -->
 
 Practical tools for creating Git-backed, LMS-embeddable open course content – from Grav to Docsify-This.
 
@@ -54,11 +54,11 @@ Practical tools for creating Git-backed, LMS-embeddable open course content – 
 
 <div class="card">
 
-[![Getting Started with Open Authoring](getting-started-with-open-authoring/natalia-y-YqeS71-42c4-unsplash.jpg ":no-zoom")](open-education-essentials/getting-started-with-open-authoring/README.md)
+![](getting-started-with-open-authoring/natalia-y-YqeS71-42c4-unsplash.jpg ":no-zoom")
 
 Section 3
 
-<h2><a href="#/open-education-essentials/getting-started-with-open-authoring/README">Getting Started with Open Authoring</a></h2>
+## [Getting Started with Open Authoring](open-education-essentials/getting-started-with-open-authoring/README.md) <!-- {docsify-ignore} -->
 
 How to invite readers to suggest edits, view source, and contribute to your open course content via GitHub or Codeberg.
 
@@ -66,11 +66,11 @@ How to invite readers to suggest edits, view source, and contribute to your open
 
 <div class="card">
 
-[![Growing Your Guide](growing-your-guide/unsplash-sidney-perry.jpg ":no-zoom")](open-education-essentials/growing-your-guide/README.md)
+![](growing-your-guide/unsplash-sidney-perry.jpg ":no-zoom")
 
 Section 4
 
-<h2><a href="#/open-education-essentials/growing-your-guide/README">Growing Your Guide</a></h2>
+## [Growing Your Guide](open-education-essentials/growing-your-guide/README.md) <!-- {docsify-ignore} -->
 
 Blogging alongside your guide, and knowing when to move to Helios Open Reader.
 
